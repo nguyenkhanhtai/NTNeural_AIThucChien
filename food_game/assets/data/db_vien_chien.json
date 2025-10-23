@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Xúc xích rán không rõ nguồn gốc",
+    "generic_name": "Xúc xích rán",
+    "label": 0,
+    "explanation": "Không có nhãn mác, nguồn gốc không rõ ràng, có thể chứa phụ gia độc hại.",
+    "diem_suc_khoe": -0.5,
+    "image_path": "assets/images/vien_chien/1_xúc_xích_rán.png"
+  },
+  {
+    "name": "Thịt xiên nướng cháy xém",
+    "generic_name": "Thịt xiên nướng",
+    "label": 0,
+    "explanation": "Bị nướng quá lửa, phần cháy xém có thể sinh ra chất gây ung thư.",
+    "diem_suc_khoe": -0.53,
+    "image_path": "assets/images/vien_chien/2_thịt_xiên_nướng.png"
+  },
+  {
+    "name": "Cá viên chiên màu sắc sặc sỡ",
+    "generic_name": "Cá viên chiên",
+    "label": 0,
+    "explanation": "Màu sắc không tự nhiên, có thể do sử dụng phẩm màu công nghiệp.",
+    "diem_suc_khoe": -0.56,
+    "image_path": "assets/images/vien_chien/3_cá_viên_chiên.png"
+  },
+  {
+    "name": "Hồ lô nướng bán rong",
+    "generic_name": "Hồ lô nướng",
+    "label": 0,
+    "explanation": "Không được che đậy, dễ bị bụi bẩn và vi khuẩn xâm nhập.",
+    "diem_suc_khoe": -0.59,
+    "image_path": "assets/images/vien_chien/4_hồ_lô_nướng.png"
+  },
+  {
+    "name": "Ngô luộc nóng hổi",
+    "generic_name": "Ngô luộc nóng hổi",
+    "label": 1,
+    "explanation": "Là thực phẩm tự nhiên, được luộc chín kỹ, ít nguy cơ mất an toàn.",
+    "diem_suc_khoe": 0.62,
+    "image_path": "assets/images/vien_chien/5_ngô_luộc_nóng_hổi.png"
+  }
+]

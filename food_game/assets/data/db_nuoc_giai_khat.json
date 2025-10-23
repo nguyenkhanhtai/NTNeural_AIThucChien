@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Trà chanh pha sẵn trong thùng không đậy",
+    "generic_name": "Trà chanh trong thùng không đậy",
+    "label": 0,
+    "explanation": "Thùng chứa không hợp vệ sinh, dễ bị bụi bẩn, côn trùng xâm nhập.",
+    "diem_suc_khoe": -0.5,
+    "image_path": "assets/images/nuoc_giai_khat/1_trà_chanh_trong_thùng_không_đậy.png"
+  },
+  {
+    "name": "Nước ngọt có gas không nhãn mác",
+    "generic_name": "Nước ngọt không nhãn mác",
+    "label": 0,
+    "explanation": "Không rõ nguồn gốc, có thể là hàng giả, chứa đường hóa học và phẩm màu độc hại.",
+    "diem_suc_khoe": -0.53,
+    "image_path": "assets/images/nuoc_giai_khat/2_nước_ngọt_không_nhãn_mác.png"
+  },
+  {
+    "name": "Trà sữa trân châu tự làm giá siêu rẻ",
+    "generic_name": "Trà sữa trân châu",
+    "label": 0,
+    "explanation": "Nguyên liệu (bột trà, sữa, trân châu) không rõ nguồn gốc, quy trình pha chế không đảm bảo vệ sinh.",
+    "diem_suc_khoe": -0.56,
+    "image_path": "assets/images/nuoc_giai_khat/3_trà_sữa_trân_châu.png"
+  },
+  {
+    "name": "Nước mía ép bằng máy cáu bẩn",
+    "generic_name": "Nước mía",
+    "label": 0,
+    "explanation": "Máy ép không được vệ sinh thường xuyên là môi trường cho vi khuẩn phát triển.",
+    "diem_suc_khoe": -0.59,
+    "image_path": "assets/images/nuoc_giai_khat/4_nước_mía.png"
+  },
+  {
+    "name": "Nước dừa tươi chặt tại chỗ",
+    "generic_name": "Nước dừa tươi",
+    "label": 1,
+    "explanation": "Dừa nguyên trái được chặt khi có khách mua, đảm bảo độ tươi và tinh khiết.",
+    "diem_suc_khoe": 0.62,
+    "image_path": "assets/images/nuoc_giai_khat/5_nước_dừa_tươi.png"
+  }
+]

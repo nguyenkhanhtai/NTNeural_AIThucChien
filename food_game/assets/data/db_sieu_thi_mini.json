@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sữa hộp tiệt trùng",
+    "generic_name": "Sữa hộp tiệt trùng",
+    "label": 1,
+    "explanation": "Sản phẩm có thương hiệu, bao bì nguyên vẹn, còn hạn sử dụng.",
+    "diem_suc_khoe": 0.5,
+    "image_path": "assets/images/sieu_thi_mini/1_sữa_hộp_tiệt_trùng.png"
+  },
+  {
+    "name": "Trái cây tươi có tem truy xuất nguồn gốc",
+    "generic_name": "Trái cây tươi",
+    "label": 1,
+    "explanation": "Tem truy xuất giúp xác định nguồn gốc, quy trình trồng trọt, đảm bảo an toàn.",
+    "diem_suc_khoe": 0.53,
+    "image_path": "assets/images/sieu_thi_mini/2_trái_cây_tươi.png"
+  },
+  {
+    "name": "Bộ đồ chơi lắp ráp bằng nhựa ABS",
+    "generic_name": "Bộ đồ chơi lắp ráp",
+    "label": 1,
+    "explanation": "Làm từ nhựa ABS an toàn, các chi tiết được bo tròn, không sắc nhọn.",
+    "diem_suc_khoe": 0.56,
+    "image_path": "assets/images/sieu_thi_mini/3_bộ_đồ_chơi_lắp_ráp.png"
+  },
+  {
+    "name": "Gấu bông có tem CR (chứng nhận hợp quy)",
+    "generic_name": "Gấu bông",
+    "label": 1,
+    "explanation": "Sản phẩm đã qua kiểm định chất lượng, an toàn với vật liệu mềm mại, không gây kích ứng.",
+    "diem_suc_khoe": 0.59,
+    "image_path": "assets/images/sieu_thi_mini/4_gấu_bông.png"
+  },
+  {
+    "name": "Đồ chơi kiếm nhựa sắc nhọn",
+    "generic_name": "Đồ chơi kiếm nhựa",
+    "label": 0,
+    "explanation": "Có các cạnh sắc, nhọn, tiềm ẩn nguy cơ gây thương tích khi chơi đùa.",
+    "diem_suc_khoe": -0.62,
+    "image_path": "assets/images/sieu_thi_mini/5_đồ_chơi_kiếm_nhựa.png"
+  }
+]

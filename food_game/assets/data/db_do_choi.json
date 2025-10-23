@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Súng bắn đạn nhựa cứng",
+    "generic_name": "Súng bắn đạn nhựa",
+    "label": 0,
+    "explanation": "Đạn nhựa có thể gây chấn thương mắt, sản phẩm không có kiểm định an toàn.",
+    "diem_hang_gia": -0.5,
+    "image_path": "assets/images/do_choi/1_súng_bắn_đạn_nhựa.png"
+  },
+  {
+    "name": "Kiếm nhựa có cạnh sắc",
+    "generic_name": "Kiếm nhựa có cạnh sắc",
+    "label": 0,
+    "explanation": "Thiết kế sắc nhọn, dễ gây trầy xước và các vết thương nghiêm trọng hơn.",
+    "diem_hang_gia": -0.53,
+    "image_path": "assets/images/do_choi/2_kiếm_nhựa_có_cạnh_sắc.png"
+  },
+  {
+    "name": "Slime không rõ thành phần",
+    "generic_name": "Slime",
+    "label": 0,
+    "explanation": "Có thể chứa hàn the (borax) và các hóa chất độc hại, gây kích ứng da.",
+    "diem_hang_gia": -0.56,
+    "image_path": "assets/images/do_choi/3_slime.png"
+  },
+  {
+    "name": "Búp bê nhựa tái chế nồng mùi hóa chất",
+    "generic_name": "Búp bê",
+    "label": 0,
+    "explanation": "Mùi nhựa nồng nặc là dấu hiệu của nhựa tái chế kém chất lượng, chứa chất độc hại.",
+    "diem_hang_gia": -0.59,
+    "image_path": "assets/images/do_choi/4_búp_bê.png"
+  },
+  {
+    "name": "Dây nhảy có tay cầm bằng gỗ",
+    "generic_name": "Dây nhảy có tay cầm",
+    "label": 1,
+    "explanation": "Thiết kế đơn giản, vật liệu tự nhiên, khuyến khích vận động thể chất.",
+    "diem_hang_gia": 0.62,
+    "image_path": "assets/images/do_choi/5_dây_nhảy_có_tay_cầm.png"
+  }
+]

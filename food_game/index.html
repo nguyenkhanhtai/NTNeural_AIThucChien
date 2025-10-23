@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>HỌC CÙNG AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- 1. Màn hình Đăng nhập -->
+    <div id="login-screen" class="screen active">
+        <div class="login-container">
+            <h1>Trước Cổng Trường</h1>
+            <p>Cùng tìm hiểu về an toàn thực phẩm và bảo vệ sức khỏe nhé!</p>
+            <input type="text" id="username" placeholder="Nhập tên của bạn">
+            <input type="password" id="password" placeholder="Nhập mật khẩu">
+            <button id="login-button">Bắt đầu</button>
+        </div>
+    </div>
+
+    <!-- 2. Màn hình Chơi -->
+    <div id="game-screen" class="screen">
+        <div id="game-map">
+            <img src="assets/lanemap_final.png" alt="Bản đồ cổng trường">
+            <div id="player">
+                <img src="assets/character.png" alt="Nhân vật">
+            </div>
+        </div>
+        <div id="controls">
+            <button id="btn-up">↑</button>
+            <div class="row">
+                <button id="btn-left">←</button>
+                <button id="btn-down">↓</button>
+                <button id="btn-right">→</button>
+            </div>
+        </div>
+        <div id="game-info">
+            <p>Người chơi: <span id="player-name"></span></p>
+            <p>Điểm sức khỏe: <span id="health-score">0</span></p>
+            <p>Phạt hàng giả: <span id="fake-score">0</span></p>
+        </div>
+    </div>
+
+    <!-- Modal hiển thị đồ vật của cửa hàng -->
+    <div id="store-modal" class="modal">
+        <div class="modal-content">
+            <h2 id="store-name">Tên Cửa Hàng</h2>
+            <div id="item-list">
+                <!-- Các món đồ sẽ được thêm vào đây bằng JavaScript -->
+            </div>
+            <button id="close-modal-button">Rời khỏi</button>
+        </div>
+    </div>
+    
+    <!-- Modal hiển thị giải thích -->
+    <div id="explanation-modal" class="modal">
+        <div class="modal-content">
+            <h2 id="explanation-title"></h2>
+            <img id="explanation-img" src="" alt="Item image">
+            <p id="explanation-text"></p>
+            <button id="close-explanation-button">Đã hiểu</button>
+        </div>
+    </div>
+
+    <!-- 3. Màn hình Tổng kết -->
+    <div id="scoreboard-screen" class="screen">
+        <div class="scoreboard-container">
+            <h1>Trò chơi kết thúc!</h1>
+            <p>Điểm cuối cùng của bạn:</p>
+            <p>Tổng điểm: <span id="final-score">0</span></p>
+            <h2>Bảng Xếp Hạng Top 10</h2>
+            <ol id="scoreboard-list">
+                <!-- Điểm số sẽ được thêm vào đây -->
+            </ol>
+            <button id="play-again-button">Chơi lại</button>
+        </div>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

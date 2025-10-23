@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sữa tươi tiệt trùng hộp giấy",
+    "generic_name": "Sữa tươi tiệt trùng",
+    "label": 1,
+    "explanation": "Sản phẩm có thương hiệu, bao bì nguyên vẹn, còn hạn sử dụng.",
+    "diem_suc_khoe": 0.5,
+    "image_path": "assets/images/cua_hang_tien_loi/1_sữa_tươi_tiệt_trùng.png"
+  },
+  {
+    "name": "Nước suối đóng chai của thương hiệu lớn",
+    "generic_name": "Nước suối đóng chai",
+    "label": 1,
+    "explanation": "Nước uống tinh khiết, được sản xuất theo quy trình kiểm định nghiêm ngặt.",
+    "diem_suc_khoe": 0.53,
+    "image_path": "assets/images/cua_hang_tien_loi/2_nước_suối_đóng_chai.png"
+  },
+  {
+    "name": "Cơm nắm rong biển làm trong ngày",
+    "generic_name": "Cơm nắm rong biển làm",
+    "label": 1,
+    "explanation": "Thực phẩm được chế biến và bán trong ngày, đảm bảo độ tươi ngon.",
+    "diem_suc_khoe": 0.56,
+    "image_path": "assets/images/cua_hang_tien_loi/3_cơm_nắm_rong_biển_làm.png"
+  },
+  {
+    "name": "Nước tăng lực nhiều đường hóa học",
+    "generic_name": "Nước tăng lực",
+    "label": 0,
+    "explanation": "Chứa lượng đường và caffeine cao, không tốt cho sức khỏe nếu lạm dụng.",
+    "diem_suc_khoe": -0.59,
+    "image_path": "assets/images/cua_hang_tien_loi/4_nước_tăng_lực.png"
+  },
+  {
+    "name": "Bim bim cay không rõ thành phần",
+    "generic_name": "Bim bim cay",
+    "label": 0,
+    "explanation": "Chứa nhiều muối, dầu mỡ và phụ gia cay, có thể gây hại cho dạ dày.",
+    "diem_suc_khoe": -0.62,
+    "image_path": "assets/images/cua_hang_tien_loi/5_bim_bim_cay.png"
+  }
+]

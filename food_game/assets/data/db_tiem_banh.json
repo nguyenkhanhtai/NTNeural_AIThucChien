@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bánh mì tươi có ngày sản xuất",
+    "generic_name": "Bánh mì tươi",
+    "label": 1,
+    "explanation": "Có thông tin rõ ràng về ngày sản xuất và hạn sử dụng, đảm bảo bánh mới.",
+    "diem_suc_khoe": 0.5,
+    "image_path": "assets/images/tiem_banh/1_bánh_mì_tươi.png"
+  },
+  {
+    "name": "Bánh bông lan trứng muối đóng hộp kín",
+    "generic_name": "Bánh bông lan trứng muối",
+    "label": 1,
+    "explanation": "Bao bì kín giúp ngăn ngừa vi khuẩn và giữ chất lượng bánh.",
+    "diem_suc_khoe": 0.53,
+    "image_path": "assets/images/tiem_banh/2_bánh_bông_lan_trứng_muối.png"
+  },
+  {
+    "name": "Bánh su kem bảo quản trong tủ lạnh",
+    "generic_name": "Bánh su kem",
+    "label": 1,
+    "explanation": "Được bảo quản ở nhiệt độ thấp, ngăn chặn sự phát triển của vi sinh vật.",
+    "diem_suc_khoe": 0.56,
+    "image_path": "assets/images/tiem_banh/3_bánh_su_kem.png"
+  },
+  {
+    "name": "Bánh quy bơ có thương hiệu",
+    "generic_name": "Bánh quy bơ",
+    "label": 1,
+    "explanation": "Sản phẩm có thương hiệu uy tín thường tuân thủ các tiêu chuẩn về an toàn thực phẩm.",
+    "diem_suc_khoe": 0.59,
+    "image_path": "assets/images/tiem_banh/4_bánh_quy_bơ.png"
+  },
+  {
+    "name": "Bánh mì ruốc để qua đêm không che đậy",
+    "generic_name": "Bánh mì ruốc",
+    "label": 0,
+    "explanation": "Để ở nhiệt độ phòng qua đêm, ruốc và sốt mayonnaise dễ bị ôi thiu.",
+    "diem_suc_khoe": -0.62,
+    "image_path": "assets/images/tiem_banh/5_bánh_mì_ruốc.png"
+  }
+]
